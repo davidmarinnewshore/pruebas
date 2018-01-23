@@ -1,3 +1,4 @@
 1-creacion file
-2-propiedad 1.0
+2-Definicion de propiedades
+3-propiedad 1.0
 3-prpopiedad 2.0

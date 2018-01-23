@@ -1,2 +1,3 @@
 1-creacion file
+2-propiedad 1.0
 3-prpopiedad 2.0
